@@ -1,7 +1,7 @@
 <h1 align="center">Hell there 👋, my name is Manish Acharya</h1>
 <h3 align="center">A passionate full stack developer from Nepal</h3>
 
-- 🌱 I’m currently learning **NextJS, Typescript**
+- 🌱 I’m currently learning **Spring Boot, React Native**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
