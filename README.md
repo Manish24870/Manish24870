@@ -1,5 +1,5 @@
-<h1 align="center">Hell there 👋, my name is Manish Acharya</h1>
-<h3 align="center">A passionate full stack developer from Nepal</h3>
+<h1 align="center">Hello there 👋, my name is Manish Acharya</h1>
+<h3 align="center">Lets create greatness</h3>
 
 - 🌱 I’m currently learning **Spring Boot**
 
